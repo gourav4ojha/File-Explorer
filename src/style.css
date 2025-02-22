@@ -1,0 +1,15 @@
+.heading{
+    align-items: center;
+}
+.container{
+    text-align: left;
+    padding-left: 20px;
+}
+span{
+    cursor: pointer;
+}
+.icon{
+    width: 20px;
+    margin-left: 8px;
+    margin-bottom: -7px;
+}
